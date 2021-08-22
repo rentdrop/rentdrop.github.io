@@ -1,0 +1,26 @@
+# Site settings
+title: RentDrop | Engineering Blog
+email: engineering@rentdrop.io
+description: > # Writer Theme is a responsive template
+ RentDrop engineering technology, best practices and more
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://engineering.rentdrop.io" # the base hostname & protocol for your site
+enable_retina: true
+permalink: :title
+nav_list:
+  Site_Home : ['RentDrop Home', 'https://rentdrop.io', '']
+  Eng_Blog : ['Engineering Blog', '/', '']
+  Site_Blog : ['RentDrop Blog', 'https://blog.rentdrop.io', '']
+  # Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
+  # Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
+  # About : ['About', '/about', 'fa-anchor']
+  # Contact : ['Contact', '/contact', 'fa-plane']
+  # Author : ['Author', '/author/michelle', 'fa-user']
+single_footer: '<p>RentDrop &copy; 2021 <a href="/">latest posts</a></p>'
+footer_links:
+    # About: ['About', '/about']
+    # Writer: ['Writer 2016', '/about']
+
+
+# Build settings
+# markdown: kramdown
