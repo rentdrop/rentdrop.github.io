@@ -24,6 +24,19 @@ When I first spoke with RentDrop’s co-founders, Remen and Ben, I was floored b
 
 It was only a matter of time before I would energetically join RentDrop!
 
+## The Problem
+As part of our core due diligence, we have collected data from hundreds of customer interviews outlining their pain points. 
+
+**Landlords**
+Landlords (investment property owners) find property management time consuming, vacancies & missing/late payments negatively impact ROI, and they often struggle to understand financial implications for various situations.
+
+**Tenants**
+Tenants feel disempowered by the rental experience, have no control over how the landlord demands to receive rent payments (e.g. paper checks), feel like they do not receive value proportionate to their rent payment.
+
+**Connecting the dots**
+In 2007, the financial crisis drove travelers to demand cheaper options than a hotel. At the same time, people who had extra space in their home or even secondary houses were looking for ways to ease their financial burden. Airbnb was born and seized the opportunity.
+
+In the 2020, COVID-19 caused vacancies to skyrocket as people fled the city in search of lower-cost living as we all adapted to the work-from-home movement. As a result, landlords are being forced to adapt and  modernize in response to different demand. RentDrop was born and seized the opportunity.
 
 ## Engineering Culture
 Culture is the heartbeat of the company. I have worked on interesting problems with negative culture before, and let me tell you… **culture matters more** than interesting tech! At RentDrop, we are what I like to call **human-first**. Meaning, we are humans before we are employees or engineers. What this means is that leadership and other team members recognize that you have a life with people you care for. Everyone has their own unique situation with different and evolving circumstances. **We believe that creating an environment where you feel understood and supported is key to building a trusting, reliable and engaged team.** 
