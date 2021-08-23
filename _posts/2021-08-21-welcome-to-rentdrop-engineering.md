@@ -30,12 +30,15 @@ There is a quote that, for the life of me, I cannot locate the attribution nor t
 At RentDrop, thankfully, we have performed due diligence and are confident that we are solving a real-world problem with some serious pain points and exponential upside. We have collected data from hundreds of customer interviews outlining their pain points as follows:
 
 **Landlords**
+
 Landlords (investment property owners) find property management time consuming, vacancies & missing/late payments negatively impact ROI, and they often struggle to understand financial implications for various situations.
 
 **Tenants**
+
 Tenants feel disempowered by the rental experience, have no control over how the landlord demands to receive rent payments (e.g. paper checks), feel like they do not receive value proportionate to their rent payment.
 
 **Connecting the dots**
+
 In 2007, the financial crisis drove travelers to demand cheaper options than a hotel. At the same time, people who had extra space in their home or even secondary houses were looking for ways to ease their financial burden. Airbnb was born and seized the opportunity.
 
 In the 2020, COVID-19 caused vacancies to skyrocket as people fled the city in search of lower-cost living as we all adapted to the work-from-home movement. As a result, landlords are being forced to adapt and  modernize in response to different demand. RentDrop was born and is seizing the opportunity.
@@ -49,7 +52,9 @@ In practice, what this means is that we offer **unlimited PTO** — which basica
 ## The Technology
 This is where things get really interesting! We feel like we are solving some really big, interesting problems in an industry that is stuck in the 1900s. But in addition to the interesting problems, we are using interesting technology. We are building RentDrop in a **services architecture** with Docker containers deployed to EC2 and Fargate instances. We are working hard to create the **best possible developer experience** with **CI/CD and blue/green deployments** — not shying away from buiding internal tooling for the purpose of making our lives better. I truly believe that happy developers are productive developers… and happy, productive developers produce high quality, tested, reliable code.
 
-**We are building for scale.** The long-term rental market sees $512 billion of rent payments annually with more than 43 million tenants. Capturing just fractions of that industry, requires that we optimize for maximum reliability and horizontal scaling.
+**We are building for scale.** 
+
+The long-term rental market sees $512 billion of rent payments annually with more than 43 million tenants. Capturing just fractions of that industry, requires that we optimize for maximum reliability and horizontal scaling.
 
 Lastly, we are exploring and leveraging “tomorrow’s” technology expectations today. I can’t divulge too much, but I will drop a single word here and let you fill in the gaps… **_crypto_**!
 
