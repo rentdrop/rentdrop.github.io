@@ -1,5 +1,5 @@
 # Site settings
-title: RentDrop | Engineering Blog
+title: Engineering Blog
 email: engineering@rentdrop.io
 description: > # Writer Theme is a responsive template
  RentDrop engineering technology, best practices and more
@@ -10,6 +10,7 @@ permalink: :title
 nav_list:
   Site_Home : ['RentDrop Home', 'https://rentdrop.io', '']
   Eng_Blog : ['Engineering Blog', '/', '']
+  Eng_Jobs : ['Engineering Job Openings', '/job-openings', '']
   Site_Blog : ['RentDrop Blog', 'https://blog.rentdrop.io', '']
   # Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
   # Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']

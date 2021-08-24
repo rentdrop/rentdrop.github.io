@@ -63,4 +63,4 @@ Fundamentally, we are committed to doing what it takes to build the highest qual
 ## What's Next?
 In the coming weeks and months, you will see posts about problems that we are solving, how we are scaling, how we are building interesting features with tomorrow’s tech _cough-crypto-cough_, and more.
 
-We have so many things to build for our customers. If any of this sounds interesting to you, please take a look at our [careers](https://www.rentdrop.io/careers) page or send an email to careers@rentdrop.io.
+We have so many things to build for our customers. If any of this sounds interesting to you, please take a look at our [careers](/job-openings) page or send an email to careers@rentdrop.io.

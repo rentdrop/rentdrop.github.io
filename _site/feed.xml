@@ -1,35 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RentDrop | Engineering Blog</title>
+    <title>Engineering Blog</title>
     <description>RentDrop engineering technology, best practices and more
 </description>
     <link>https://engineering.rentdrop.io/</link>
     <atom:link href="https://engineering.rentdrop.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Aug 2021 17:34:04 -0400</pubDate>
-    <lastBuildDate>Sun, 22 Aug 2021 17:34:04 -0400</lastBuildDate>
+    <pubDate>Tue, 24 Aug 2021 11:37:07 -0400</pubDate>
+    <lastBuildDate>Tue, 24 Aug 2021 11:37:07 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Welcome to RentDrop Engineering</title>
-        <description>&lt;p&gt;Welcome to the RentDrop Engineering blog! The team is excited to bring you stories about some of the technical challenges we are solving, and how we think differently about approaches to some common pain points in the real estate (&lt;a href=&quot;https://en.wikipedia.org/wiki/Property_technology&quot; target=&quot;_blank&quot;&gt;PropTech&lt;/a&gt;) and financial (&lt;a href=&quot;https://en.wikipedia.org/wiki/Financial_technology&quot; target=&quot;_blank&quot;&gt;FinTech&lt;/a&gt;) industries.&lt;/p&gt;
+        <description>&lt;p&gt;Welcome to the RentDrop Engineering blog! My name is Nick and I head up RentDrop’s engineering and technology. We are excited to bring you stories about some of the technical challenges we are solving, and how we think differently about approaches to some common pain points in the real estate (&lt;a href=&quot;https://en.wikipedia.org/wiki/Property_technology&quot; target=&quot;_blank&quot;&gt;PropTech&lt;/a&gt;) and financial (&lt;a href=&quot;https://en.wikipedia.org/wiki/Financial_technology&quot; target=&quot;_blank&quot;&gt;FinTech&lt;/a&gt;) industries.&lt;/p&gt;
 
 &lt;p&gt;But first, I want to provide a little context around why I joined RentDrop and why I believe this company is going to do amazing things in an industry that is begging to be disrupted.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-team&quot;&gt;The Team&lt;/h2&gt;
-&lt;p&gt;I am a startup fanatic. Most of my career has been working in and on startups. I am crazy about the energy, speed and problems that startups experience — and I have worked hard to stay in and around the startup community. I have started 3 companies, been through interviews in both &lt;a href=&quot;https://www.ycombinator.com/&quot; target=&quot;_blank&quot;&gt;Y-Combinator&lt;/a&gt; and &lt;a href=&quot;https://www.techstars.com/&quot; target=&quot;_blank&quot;&gt;TechStars&lt;/a&gt;, and even helped exit a company. As a result, I have met many people in the startup world.&lt;/p&gt;
+&lt;p&gt;I am a startup fanatic. Most of my career has been working in and on startups. I am crazy about the energy, speed and problems that startups experience — and I have worked purposefully to stay in and around the startup community. I have started 3 companies, been involved in both &lt;a href=&quot;https://www.ycombinator.com/&quot; target=&quot;_blank&quot;&gt;Y-Combinator&lt;/a&gt; (in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Paul_Graham_(programmer)&quot; target=&quot;_blank&quot;&gt;Paul Graham&lt;/a&gt; era) and &lt;a href=&quot;https://www.techstars.com/&quot; target=&quot;_blank&quot;&gt;TechStars&lt;/a&gt;, and even helped exit a company. As a result, I have met many people in the startup world.&lt;/p&gt;
 
-&lt;p&gt;Overall, I would say there are two types of “startup people” — talkers and doers. I won’t touch on “talkers,” as I’m sure we all know how that goes. Within the “doers” category, I’d say there are three types of people:&lt;/p&gt;
+&lt;p&gt;When I first spoke with RentDrop’s co-founders, Remen and Ben, I was floored by their focus, intelligence and resolve. Their experience and competence is refreshing and motivating. Beyond that, they are genuinely good people who care equally about the success of individual team members as they do about the success of RentDrop. They expressed to me their desire to build an engineering team who feels pride in their accomplishments	 and in the software they are building… which is great, because those are exactly the types of teams I love to build!&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;People who are willing to work really hard&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Smart&lt;/em&gt; people who are willing to work really hard&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Experienced&lt;/em&gt;, &lt;em&gt;smart&lt;/em&gt; people who are willing to work really hard&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;It was only a matter of time before I would enthusiastically join RentDrop!&lt;/p&gt;
 
-&lt;p&gt;While each of these has its merits, I think we can all agree that category #3 is the most ideal scenario, given the luxury of choice.&lt;/p&gt;
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;There is a quote that, for the life of me, I cannot locate the attribution nor the exact phrasing, but it goes something like “Silicon Valley is a graveyard of great technology.” As I recall, the ethos behind the quote was along the lines of interesting technology acting as a solution looking for a problem. As all founders and startup enthusiasts can attest, interesting technology without a real-world problem to solve is completely useless—at least as far as creating a profitable company is concerned.&lt;/p&gt;
 
-&lt;p&gt;The first time I spoke with &lt;a href=&quot;https://www.linkedin.com/in/remenokoruwa/&quot; target=&quot;_blank&quot;&gt;Remen&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/ben-keller-24309644/&quot; target=&quot;_blank&quot;&gt;Ben&lt;/a&gt;, it was immediately clear to me that both of them were incredibly intelligent. As we had ongoing conversations about RentDrop and my potential involvement, it didn’t take long for me to identify that these founders both fit squarely into the third category.&lt;/p&gt;
+&lt;p&gt;At RentDrop, thankfully, we have performed due diligence and are confident that we are solving a real-world problem with some serious pain points and exponential upside. We have collected data from hundreds of customer interviews outlining their pain points as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Landlords&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Landlords (investment property owners) find property management time consuming, vacancies &amp;amp; missing/late payments negatively impact ROI, and they often struggle to understand financial implications for various situations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tenants&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tenants feel disempowered by the rental experience, have no control over how the landlord demands to receive rent payments (e.g. paper checks), feel like they do not receive value proportionate to their rent payment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Connecting the dots&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2007, the financial crisis drove travelers to demand cheaper options than a hotel. At the same time, people who had extra space in their home or even secondary houses were looking for ways to ease their financial burden. Airbnb was born and seized the opportunity.&lt;/p&gt;
+
+&lt;p&gt;In the 2020, COVID-19 caused vacancies to skyrocket as people fled the city in search of lower-cost living as we all adapted to the work-from-home movement. As a result, landlords are being forced to adapt and  modernize in response to different demand. RentDrop was born and is seizing the opportunity.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-culture&quot;&gt;The Culture&lt;/h2&gt;
+&lt;p&gt;Culture is the heartbeat of the company. I have worked on interesting problems with negative culture before, and let me tell you… &lt;strong&gt;culture matters more&lt;/strong&gt; than interesting tech! At RentDrop, we are what I like to call &lt;strong&gt;human-first&lt;/strong&gt;. Meaning, we are humans before we are employees or engineers. What this means is that leadership and other team members recognize that you have a life with people you care for. Everyone has their own unique situation with different and evolving circumstances. &lt;strong&gt;We believe that creating an environment where you feel understood and supported is key to building a trusting, reliable and engaged team.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In practice, what this means is that we offer &lt;strong&gt;unlimited PTO&lt;/strong&gt; — which basically means let’s just have a conversation about your time off and how we can meet your personal needs while also not leaving the team in a bad place. Additionally, we are a &lt;strong&gt;distributed engineering team&lt;/strong&gt;. Work from your bedroom, or a coffee shop, or a shared office… or a mountain top. Basically, &lt;strong&gt;if you have Internet there, connect with your team from there!&lt;/strong&gt; Even prior to COVID, I was building and scaling distributed engineering teams. This is not something new to us, this is how we all should have been working for years.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-technology&quot;&gt;The Technology&lt;/h2&gt;
+&lt;p&gt;This is where things get really interesting! We feel like we are solving some really big, interesting problems in an industry that is stuck in the 1900s. But in addition to the interesting problems, we are using interesting technology. We are building RentDrop in a &lt;strong&gt;services architecture&lt;/strong&gt; with Docker containers deployed to EC2 and Fargate instances. We are working hard to create the &lt;strong&gt;best possible developer experience&lt;/strong&gt; with &lt;strong&gt;CI/CD and blue/green deployments&lt;/strong&gt; — not shying away from buiding internal tooling for the purpose of making our lives better. I truly believe that happy developers are productive developers… and happy, productive developers produce high quality, tested, reliable code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We are building for scale.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The long-term rental market sees $512 billion of rent payments annually with more than 43 million tenants. Capturing just fractions of that industry, requires that we optimize for maximum reliability and horizontal scaling.&lt;/p&gt;
+
+&lt;p&gt;Lastly, we are exploring and leveraging “tomorrow’s” technology expectations today. I can’t divulge too much, but I will drop a single word here and let you fill in the gaps… &lt;strong&gt;&lt;em&gt;crypto&lt;/em&gt;&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Fundamentally, we are committed to doing what it takes to build the highest quality product and features for our customers. As such we are &lt;strong&gt;tightly coupled with our Product and Design teams&lt;/strong&gt;. We work in small squads that address focused tasks. We believe that keeping engineers close to our customers drives empathy and understanding. We are working together, side by side, to build solutions for landlords and tenants.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h2&gt;
+&lt;p&gt;In the coming weeks and months, you will see posts about problems that we are solving, how we are scaling, how we are building interesting features with tomorrow’s tech &lt;em&gt;cough-crypto-cough&lt;/em&gt;, and more.&lt;/p&gt;
+
+&lt;p&gt;We have so many things to build for our customers. If any of this sounds interesting to you, please take a look at our &lt;a href=&quot;/job-openings&quot;&gt;careers&lt;/a&gt; page or send an email to careers@rentdrop.io.&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 Aug 2021 04:50:28 -0400</pubDate>
         <link>https://engineering.rentdrop.io/welcome-to-rentdrop-engineering</link>
