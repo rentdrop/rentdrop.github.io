@@ -49,7 +49,7 @@ Tenants feel disempowered by the rental experience, have no control over how the
 
 In 2007, the financial crisis drove travelers to demand cheaper options than a hotel. At the same time, people who had extra space in their homes or even secondary houses were looking for ways to ease their financial burden. Thus, Airbnb was born and seized the opportunity.
 
-In 2020, COVID-19 caused vacancies to skyrocket as people fled the city searching for lower-cost living as we all adapted to the work-from-home movement. As a result, landlords are being forced to adapt and modernize in response to different demands. Thus, RentDrop was born and isseizing the opportunity.
+In 2020, COVID-19 caused vacancies to skyrocket as people fled the city searching for lower-cost living as we all adapted to the work-from-home movement. As a result, landlords are being forced to adapt and modernize in response to different demands. Thus, RentDrop was born and is seizing the opportunity.
 
 ## The Culture
 Culture is the heartbeat of the company. I have worked on interesting problems with negative culture before, and let me tell you… **culture matters more** than interesting tech!
