@@ -79,4 +79,13 @@ Fundamentally, we are committed to doing what it takes to build the highest qual
 ## What's Next?
 In the coming weeks and months, you will see posts about problems that we are solving, the infrastructure we're scaling, how we are building interesting features with tomorrow's tech _cough-crypto-cough_, and more.
 
-We have so many things to build for our customers. If any of this sounds interesting to you, please check out our [careers](/job-openings) page or send an email to careers@rentdrop.io.
+We have so many things to build for our customers. If any of this sounds interesting to you, let's grab a _virtual_ coffee!
+
+<div id="gac-widget"></div>
+<script>
+	(function(w,d,t,g){GAC=w.GAC||function(){GAC.callMethod?GAC.callMethod.apply(GAC,arguments):(GAC.q=w.GAC.q||[]).push(arguments);};
+	GAC.q=[];g=d.createElement(t);s=d.getElementsByTagName(t)[0];g.src='https://grabacoffee.io/sdk.min.js';g.async=true;
+	s.parentNode.insertBefore(g, s);})(window, document, 'script');
+
+	GAC('init', { company: 'rentdrop', selector: 'gac-widget', employee: 'nick' });
+</script>
