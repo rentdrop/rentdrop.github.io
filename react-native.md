@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Full Stack Javascript Engineer » Mobile Focus
+title: Full Stack Javascript Engineer (Mobile Focus)
 permalink: /mobile-react-native-full-stack-javascript-engineer/
 feature_image: feature-working2
 ---
