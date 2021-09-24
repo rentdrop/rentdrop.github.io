@@ -1,7 +1,7 @@
 ---
 layout: page
-title: React Native / NodeJS (Remote)
-permalink: /react-native-node-engineer/
+title: Full Stack Javascript Engineer | Mobile Focus
+permalink: /mobile-react-native-full-stack-javascript-engineer/
 feature_image: feature-working2
 ---
 
