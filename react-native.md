@@ -9,11 +9,11 @@ feature_image: feature-working2
 We are building the future of rental software for landlords and tenants. This is an opportunity to join a venture-funded company with a proven team as an early engineer. If successful, we will have transformed the way individual landlords and tenants operate; a marketplace that exchanges $500B annually.
 
 ## About the Role
-We believe that the future of property rentals is financially empowering tenants and landlords. RentDrop is transforming rental payments, communications, applications, credit reporting, and so much more — and we’re looking for an experienced engineer to join our distributed team as a Javascript/Typscript engineer with experience in React Native and NodeJS.
+We believe that the future of property rentals is financially empowering tenants and landlords. RentDrop is transforming rental payments, communications, applications, credit reporting, and so much more — and we’re looking for an experienced engineer to join our distributed team as a Javascript/Typescript engineer with experience in React Native and NodeJS.
 
-Reporting directly to the CTO, we are looking someone who loves to get their hands dirty and wear many hats. Someone who has proven experience building mobile apps in React Native and who enjoys jumping in to help write backend APIs when needed.
+Reporting directly to the CTO, we are looking for someone who loves to get their hands dirty and wear many hats. Someone who has proven experience building mobile apps in React Native and who enjoys jumping in to help write backend APIs when needed.
 
-In this role, you will work closely with Product and Design to impliment a carefully crafted mobile design. A strong understanding for the nuances of mobile applications and the quirks of React Native are key attributes to the success of this role. User experience is incredibly important to us, so a keen eye for detail and a passion for delivering amazing experiences are vital.
+In this role, you will work closely with Product and Design to implement a carefully crafted mobile design. A strong understanding of the nuances of mobile applications and the quirks of React Native are key attributes to the success of this role. User experience is incredibly important to us, so a keen eye for detail and a passion for delivering amazing experiences are vital.
 
 ## About You
 - You _love_ startup life
@@ -31,7 +31,7 @@ In this role, you will work closely with Product and Design to impliment a caref
 ## Benefits
 - Unlimited PTO
 - Stock options
-- A new MacBook Pro (or similar if you’re not an Apple fan)
+- A new MacBook Pro
 
 <div id="gac-widget"></div>
 <script>
